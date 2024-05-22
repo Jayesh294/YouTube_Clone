@@ -1,0 +1,30 @@
+p{
+  font-family:Montserrat;
+}
+
+
+
+.title{
+  font-size:30px;
+  color:black;
+  text-align: center;
+  font-weight:501;
+  
+
+
+  }
+  
+  .para{
+    text-align: center;
+    color:grey;
+  
+  } 
+
+  .tt:hover{
+    text-decoration: underline;
+    cursor:pointer;
+    
+  }
+
+ 
+  
